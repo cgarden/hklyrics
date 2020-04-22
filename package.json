@@ -1,0 +1,26 @@
+{
+  "name": "hklyrics",
+  "version": "1.0.0",
+  "description": "Twitter bot for tweeting HK lyrics!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "lyrics_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hklyrics"
+  },
+  "keywords": [
+    "hiatuskaiyote",
+    "lyrics",
+    "music",
+    "twitterbot",
+    "music",
+    "data"
+  ],
+  "author": "chloeagarden",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
